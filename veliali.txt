@@ -1,9 +1,0 @@
-ali: merhaba
-veli: as
-veli: sa
-ali: as
-veli: naber
-veli: naber
-ali: as
-veli: sa
-ali: as
